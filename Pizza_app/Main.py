@@ -1,0 +1,2 @@
+from Pizza_app.Costumer_detail import costumer_detail_main
+costumer_detail_main()
